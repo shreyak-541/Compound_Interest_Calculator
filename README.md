@@ -9,6 +9,7 @@ This Python script calculates **compound interest** and the **total amount payab
 The script uses the compound interest formula:
 
 Amount = Principal × (1 + Rate/100) ^ Time
+
 Compound Interest = Amount - Principal
 
 Where:
